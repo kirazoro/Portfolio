@@ -1,7 +1,7 @@
 # Chitrangi Bhatnagar's Portfolio
 
 This is the personal portfolio website of Chitrangi Bhatnagar, a 3rd-year Software Engineering student specializing in AI/ML, with a focus on Large Language Models (LLMs) and Computer Vision.
-
+https://679493000a25d103699c100b--chitrangibhatnagar.netlify.app/
 ## Features
 
 - Responsive design using React and Tailwind CSS
